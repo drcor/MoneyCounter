@@ -350,7 +350,4 @@
       </component>
     </children>
   </grid>
-  <inspectionSuppressions>
-    <suppress inspection="MissingMnemonic"/>
-  </inspectionSuppressions>
 </form>
