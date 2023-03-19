@@ -129,6 +129,7 @@ public class MoneyCounter extends JFrame{
         JFrame frame = new JFrame("Money Counter");
         frame.setContentPane(new MoneyCounter().panel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setLocationRelativeTo(null);
         frame.pack();
         frame.setVisible(true);
    }
